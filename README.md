@@ -62,6 +62,17 @@ terraform apply
 6. Access the landing page using the EC2 public IP address.
 
 ## Learning Outcomes
+## AWS EC2 Instance
+
+The EC2 instance provisioned using Terraform.
+
+![EC2 Instance](images/ec2-instance.png)
+
+## Landing Page Deployment
+
+Static landing page successfully deployed on AWS EC2 using Nginx.
+
+![Landing Page](images/landing-page.png)
 
 * Infrastructure as Code with Terraform
 * AWS EC2 provisioning
