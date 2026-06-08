@@ -66,13 +66,13 @@ terraform apply
 
 The EC2 instance provisioned using Terraform.
 
-![EC2 Instance](images/ec2-instance.png)
+![EC2 Instance](images/Screenshot%202026-06-08%20171501.png)
 
 ## Landing Page Deployment
 
 Static landing page successfully deployed on AWS EC2 using Nginx.
 
-![Landing Page](images/landing-page.png)
+![Landing Page](images/Screenshot%202026-06-08%20171139.png)
 
 * Infrastructure as Code with Terraform
 * AWS EC2 provisioning
